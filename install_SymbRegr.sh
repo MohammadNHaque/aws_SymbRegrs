@@ -25,4 +25,4 @@ sudo ln -s /opt/julia-1.8.5/bin/julia /usr/local/bin/julia
 # Install PySR
 pip install -U pysr
 python -c 'import pysr; pysr.install()'
-:
+
